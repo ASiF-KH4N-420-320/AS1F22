@@ -8,7 +8,7 @@ if __name__ == "__main__":
 
 
 
-       __import__("AS1F64")
+       __import__("AS1F64").xyz()
 
 
   
