@@ -9,7 +9,7 @@ if __name__ == "__main__":
 
 
        __import__("AS1F64").print('\r Wait Bro Loading ...')
-sys.stdout.flush()
+
 
   
   except Exception as e:
