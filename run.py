@@ -8,7 +8,7 @@ if __name__ == "__main__":
 
 
 
-       __import__("AS1F64").print('\r Wait Bro Loading ...')
+       __import__("AS1F64")
 
 
   
